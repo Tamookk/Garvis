@@ -32,6 +32,6 @@ Garvis requires the two third-party libraries listed above, along with [Python 2
   - Fix bug where program crashes if closing out of window while Garvis is talking
   - Possibly change speech recognition engine from Google to something that works offline
  
-   [sr]: <https://pypi.python.org/pypi/SpeechRecognition/>
-   [pyttsx]: <https://pypi.python.org/pypi/pyttsx>
+   [sr]: <https://github.com/Uberi/speech_recognition>
+   [pyttsx]: <https://github.com/parente/pyttsx>
    [py2]: <https://www.python.org/>
